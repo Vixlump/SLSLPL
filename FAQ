@@ -1,0 +1,11 @@
+Q: Can I distribute my code with out zlib?
+A: Yes
+
+Q: Can I distribute the //+ application along with my code?
+A: Yes but the //+ application must be used under the terms of zlib.
+
+Q: Is there anything I should watch out for when using //+?
+A: I would recomend not running it in the background or in DOS mode, and I would never inject assembly or system code into it.
+
+Q: My anti virus does not trust the //+ application, why is this?
+A: Most anti virus software do not like applications that run directly from the system, how ever //+ needs the system to access assembly and your hardware information and it just so happends that with out these //+ cannot run so you will have to make an exception.
