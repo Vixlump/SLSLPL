@@ -9,3 +9,6 @@ A: I would recomend not running it in the background or in DOS mode, and I would
 
 Q: My anti virus does not trust the //+ application, why is this?
 A: Most anti virus software do not like applications that run directly from the system, how ever //+ needs the system to access assembly and your hardware information and it just so happends that with out these //+ cannot run so you will have to make an exception.
+
+Q: Will you ever make a standard library?
+A: Yes, that has been in our plans for a wile now, we added basic support for it in 0.9.0x64 and we expect the lib will be done soon.
