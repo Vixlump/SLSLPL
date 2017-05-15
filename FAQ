@@ -15,3 +15,18 @@ A: Yes, that has been in our plans for a wile now, we added basic support for it
 
 Q: Can I add my own license to the //+ application and code?
 A: Yes but make sure your license does not conflict with zlib.
+
+Q: Can I build my own //+ application and or edit the current application to run my code?
+A: We have got no problem if you do this, how ever editing the current application is not recomended. If you do make a new //+ application we would love to here about it!
+
+Q: What is the support email?
+A: The main support email is support@lumpology.com
+
+Q: Can I contribute code and libraries to the //+ project?
+A: Yes! And please do, all of our developers are part time and so anything you send us could save us a lot of time! Send all code to support@lumpology.com and we will see if it can be added to the main librarie.
+
+Q: If I want to contribute code to the //+ project that is in an other language what should I do?
+A: If you have somthing you want to have put in the project compile it and send us both the compiled edition and the source code. We will also need you to make controller libraries so we know how to work it into the language.
+
+Q: If I want to make a library for the //+ project how would you recommend doing it?
+A: For a start you would have to build the library in //+ for xlib, if you wish to use an other language for the library you will need to use xlib for running the code. We recommend using compiled C++ or Python for your library and to base your syntax off of //+ syntax.
