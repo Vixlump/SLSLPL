@@ -12,3 +12,6 @@ A: Most anti virus software do not like applications that run directly from the 
 
 Q: Will you ever make a standard library?
 A: Yes, that has been in our plans for a wile now, we added basic support for it in 0.9.0x64 and we expect the lib will be done soon.
+
+Q: Can I add my own license to the //+ application and code?
+A: Yes but make sure your license does not conflict with zlib.
