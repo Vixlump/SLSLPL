@@ -30,3 +30,6 @@ A: If you have somthing you want to have put in the project compile it and send 
 
 Q: If I want to make a library for the //+ project how would you recommend doing it?
 A: For a start you would have to build the library in //+ for xlib, if you wish to use an other language for the library you will need to use xlib for running the code. We recommend using compiled C++ or Python for your library and to base your syntax off of //+ syntax.
+
+Q: Can I distrobute the host.dll?
+A: Yes but just know we are not to be held responsibal for anything you may do with it, or any damage it may cause.
