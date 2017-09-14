@@ -33,3 +33,15 @@ A: For a start you would have to build the library in //+ for xlib, if you wish 
 
 Q: Can I distrobute the host.dll?
 A: Yes but just know we are not to be held responsibal for anything you may do with it, or any damage it may cause.
+
+Q: As of 0.9.9 there is a new dll called log.dll can I distrobute it?
+A: Yes, how ever the same conditions that the host.dll have apply to the log.dll
+
+Q: Can the language run with out the dll files?
+A: No, the dll files are needed.
+
+Q: Will we be getting any documentation?
+A: Yes how ever don't expect any finished docs for some time yet.
+
+Q: Will there ever be an IDE made just for //+?
+A: Yes, an IDE called SSPIDE is in development and should come out along with the standard library in 1.0.0
