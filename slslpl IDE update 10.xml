@@ -1,0 +1,64 @@
+<NotepadPlus>
+    <UserLang name="//+ IDE Update 10" ext="slslpl" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments"></Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1"></Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open"></Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close"></Keywords>
+            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close"></Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1">tap&#x000D;&#x000A;tap_head&#x000D;&#x000A;tap_tile&#x000D;&#x000A;tap_operation&#x000D;&#x000A;noerror&#x000D;&#x000A;yeserror&#x000D;&#x000A;tap_system&#x000D;&#x000A;tap_port&#x000D;&#x000A;tap_host&#x000D;&#x000A;tap_script&#x000D;&#x000A;tap_line&#x000D;&#x000A;&#x000D;&#x000A;math&#x000D;&#x000A;math_mem&#x000D;&#x000A;math_cal&#x000D;&#x000A;&#x000D;&#x000A;mem&#x000D;&#x000A;mem_store&#x000D;&#x000A;mem_read&#x000D;&#x000A;mem_inmem&#x000D;&#x000A;mem_scantomem&#x000D;&#x000A;mem_backup&#x000D;&#x000A;mem_intomem&#x000D;&#x000A;mem_cpuarctomem&#x000D;&#x000A;mem_cpuidtomem&#x000D;&#x000A;mem_restore&#x000D;&#x000A;mem_cpulvltomem&#x000D;&#x000A;mem_mathtomem&#x000D;&#x000A;mem_add</Keywords>
+            <Keywords name="Keywords2">&#x000D;&#x000A;in_keyinput&#x000D;&#x000A;gl&#x000D;&#x000A;sharp&#x000D;&#x000A;.&#x000D;&#x000A;glib&#x000D;&#x000A;glib_gtext&#x000D;&#x000A;glib_outborderlinec&#x000D;&#x000A;glib_outborderdlinec&#x000D;&#x000A;glib_border&#x000D;&#x000A;glib_gtext_white&#x000D;&#x000A;glib_gtext_darkblue&#x000D;&#x000A;glib_gtext_darkgreen&#x000D;&#x000A;glib_gtext_blue&#x000D;&#x000A;glib_gtext_darkturquoise&#x000D;&#x000A;glib_gtext_darkred&#x000D;&#x000A;glib_gtext_darkpurple&#x000D;&#x000A;glib_gtext_darkyellow&#x000D;&#x000A;glib_gtext_gray&#x000D;&#x000A;glib_gtext_green&#x000D;&#x000A;glib_gtext_turquoise&#x000D;&#x000A;glib_gtext_red&#x000D;&#x000A;glib_gtext_purple&#x000D;&#x000A;glib_gtext_yellow&#x000D;&#x000A;glib_gtext_nil&#x000D;&#x000A;glib_border_linec&#x000D;&#x000A;glib_border_dlinec&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords3">out&#x000D;&#x000A;out_group&#x000D;&#x000A;~ret&#x000D;&#x000A;out_input&#x000D;&#x000A;out_nil&#x000D;&#x000A;out_time&#x000D;&#x000A;out_date&#x000D;&#x000A;out_math&#x000D;&#x000A;out_log&#x000D;&#x000A;out_line&#x000D;&#x000A;out_webport&#x000D;&#x000A;out_mem&#x000D;&#x000A;in&#x000D;&#x000A;in_input&#x000D;&#x000A;in_file&#x000D;&#x000A;in_errorlevel&#x000D;&#x000A;in_scantomem&#x000D;&#x000A;in_porttomem&#x000D;&#x000A;output&#x000D;&#x000A;1&#x000D;&#x000A;2&#x000D;&#x000A;3&#x000D;&#x000A;4&#x000D;&#x000A;5&#x000D;&#x000A;6&#x000D;&#x000A;7&#x000D;&#x000A;8&#x000D;&#x000A;9&#x000D;&#x000A;0&#x000D;&#x000A;.&#x000D;&#x000A;input&#x000D;&#x000A;reset</Keywords>
+            <Keywords name="Keywords4">check&#x000D;&#x000A;check_cpu&#x000D;&#x000A;check_gpu&#x000D;&#x000A;check_ram&#x000D;&#x000A;check_os&#x000D;&#x000A;check_logs&#x000D;&#x000A;check_file&#x000D;&#x000A;check_cpuarc&#x000D;&#x000A;check_cpuid&#x000D;&#x000A;check_cpulvl&#x000D;&#x000A;check_cpurev&#x000D;&#x000A;olib&#x000D;&#x000A;olib_clearinput&#x000D;&#x000A;olib_clearmem&#x000D;&#x000A;olib_errorhandle&#x000D;&#x000A;olib_clearscan&#x000D;&#x000A;olib_restartprogram&#x000D;&#x000A;olib_garbagecollection&#x000D;&#x000A;olib_lowio</Keywords>
+            <Keywords name="Keywords5">note</Keywords>
+            <Keywords name="Keywords6">winlib&#x000D;&#x000A;winlib_deletefile&#x000D;&#x000A;web&#x000D;&#x000A;web_input&#x000D;&#x000A;web_google&#x000D;&#x000A;web_open&#x000D;&#x000A;web_host&#x000D;&#x000A;web_download&#x000D;&#x000A;xlib&#x000D;&#x000A;xlib_run&#x000D;&#x000A;xlib_input&#x000D;&#x000A;xlib_ret&#x000D;&#x000A;xlib_lib&#x000D;&#x000A;xlib_scan</Keywords>
+            <Keywords name="Keywords7">log&#x000D;&#x000A;log_date&#x000D;&#x000A;log_time&#x000D;&#x000A;log_error&#x000D;&#x000A;log_line&#x000D;&#x000A;log_input&#x000D;&#x000A;when&#x000D;&#x000A;tap&#x000D;&#x000A;if&#x000D;&#x000A;if_hit&#x000D;&#x000A;if_input&#x000D;&#x000A;if_output&#x000D;&#x000A;if_hitline&#x000D;&#x000A;if_log&#x000D;&#x000A;if_mem&#x000D;&#x000A;if_keyinput&#x000D;&#x000A;if_keyinput_char&#x000D;&#x000A;if_keyinput_num&#x000D;&#x000A;if_keyinput_action&#x000D;&#x000A;if_keyinput_symbol&#x000D;&#x000A;if_keyinput_tool</Keywords>
+            <Keywords name="Keywords8">end&#x000D;&#x000A;end_keyout&#x000D;&#x000A;end_program&#x000D;&#x000A;end_error&#x000D;&#x000A;end_stall&#x000D;&#x000A;end_restart&#x000D;&#x000A;end_if&#x000D;&#x000A;ret</Keywords>
+            <Keywords name="Delimiters"></Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="FF8040" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="8080FF" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="FF80FF" bgColor="C0C0C0" fontName="" fontStyle="2" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="FF00FF" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="808040" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="0080FF" bgColor="FFFF80" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
