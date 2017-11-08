@@ -1,0 +1,39 @@
+in: _input, _file, _keyinput, _errorlevel, _porttomem, _scantomem
+
+out: _group, _input, _date, _time, _log, _line, _math, _nil, _pos, _webport, _mem
+
+web: _input, _google, _open, _host, _download
+
+olib: _clearmem, _clearinput, _errorhandle, _clearscan, _restartprogram, _garbagecollection, _lowio
+
+mem: _store, _read, _inmem, _backup, _restore, _add
+
+mem_setmem: _scantomem, _intomem, _cpuarctomem, _cpuidtomem, _cpulvltomem, _cpurevtomem, _mathtomem, _ostomem, _datetomem, _timetomem
+
+math: _mem, _cal, _ifequal
+
+check: _cpu, _gpu, _ram, _os, _logs, _file, _cpuarc, _cpuid, _cpulvl, _cpurev
+
+tap: _head, _operation, _script, _tile, _line, _findline
+
+log: _date, _time, _error, _input, _line
+
+note:
+
+winlib: _deletefile, _copyfile, _movefile
+
+lib: _run, _input, _ret, ., _scan
+
+glib: _outborderlinec, _outborderdlinec, _messagebox
+
+glib_gtext: _darkblue, _darkgreen, _blue, _darkturquoise, _darkred, _darkpurple, _darkyellow, _gray, _green, _turquoise, _red, _purple, _yellow, _nil
+
+glib_border: _linec, _dlinec, _tc
+
+if: _output, _input, _log, _hit, _hitline, _mem
+
+if_keyinput: _char, _num, _action, _symbol, _tool
+
+end: _keyout, _program, _error, _restart, _stall, _if
+
+sub ops: tap_head-~mem, if_input-~mem, if_mem-~input, in_file-~mem, 
